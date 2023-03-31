@@ -1,3 +1,4 @@
+# Mỗi học viên tạo một folder github và add thành viên vuvanhieucntt@gmail.com
 
 # Chủ đề: Hệ hỗ trợ quyết định tiên tiến
 
